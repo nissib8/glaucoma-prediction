@@ -5,7 +5,7 @@ Glaucoma is a progressive eye disease that damages the optic nerve and can lead 
 
 This project focuses on building a Glaucoma Prediction System using machine learning techniques to assist in early detection. The system analyzes medical and image-based features to classify whether a patient is likely to have glaucoma, enabling timely diagnosis and intervention.
 
-🎯 Objectives
+🎯 Objectives:
 
 To predict the presence of glaucoma at an early stage
 
